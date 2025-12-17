@@ -1,5 +1,5 @@
 Brief Introduction About Myself
 
-My name is MUSABYIMANA Honorine  , and I am a learner currently building my skills in Git and GitHub. I am passionate about learning new technologies and improving my technical and academic abilities.
+Hello! My name is MUSABYIMANA Honorine. I am learning Git and GitHub to manage projects and collaborate with others effectively. 
+This repository is my first hands-on practice with version control, branches, and pull requests.
 
-This repository is part of my learning journey, where I practice version control, collaboration, and project management using GitHub.
